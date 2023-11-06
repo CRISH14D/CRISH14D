@@ -70,6 +70,6 @@
 
 
 -----
-Credits: Aditya Vikram Singh
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 2/11/2023
