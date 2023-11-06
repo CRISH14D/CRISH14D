@@ -70,6 +70,6 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits: Aditya Vikram Singh
 
 Last Edited on: 2/11/2023
